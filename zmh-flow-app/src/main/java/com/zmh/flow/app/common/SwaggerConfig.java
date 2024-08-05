@@ -32,8 +32,8 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("秒杀系统")
-                .description("商品秒杀系统")
+                .title("流程系统")
+                .description("流程服务系统")
                 .contact(new Contact("zhouminghao", "https://github.com/minyes", "467914486@qq.com"))
                 .version("1.0")
                 .build();
